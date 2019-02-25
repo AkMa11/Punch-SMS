@@ -6,3 +6,5 @@
 -The Email function is commented off as the client didn't need one.
 
 -Admin can Add, Update, Remove users from the database.
+
+-Screenshots are on a pdf in parent folder
